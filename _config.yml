@@ -1,12 +1,14 @@
 ﻿# Basic
 title: Osean
 subtitle: 个人站
+email: osean.li198@gmail.com
 description: 欢迎来到我的个人站~
+keyword: "算法, 开源, 软考,自动驾驶,汽车电子"
 # 头像里面的标题
 avatarTitle: Osean
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://leopardpan.cn"
+avatarDesc: 自动驾驶 / 汽车电子
+url: "https://osean-li.github.io/"          # your host, for absolute URL
 
 # 博客是否自动生成目录，false为不生成
 enableToc: true
